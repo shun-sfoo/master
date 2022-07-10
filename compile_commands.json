@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/neo/WorkSpaces/master/build/linux-debug",
+    "command": "/usr/bin/cc   -g -o CMakeFiles/project.dir/main.c.o -c /home/neo/WorkSpaces/master/main.c",
+    "file": "/home/neo/WorkSpaces/master/main.c"
+  }
+]
